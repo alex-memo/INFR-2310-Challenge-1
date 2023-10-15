@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dfb845f94552e54d9a47807bcd53ff9, type: 3}
+  m_Name: Ahri
+  m_EditorClassIdentifier: 
+  ChampName: Ahri
+  ChampSprite: {fileID: 21300000, guid: 066c2627ff821b443b74c86f4b1ff4c4, type: 3}
+  SplashArt: {fileID: 21300000, guid: 8602d2f5646329a4ba87f7aa2036b173, type: 3}
+  CompleteSplashArt: {fileID: 21300000, guid: ca0e5dc860db93946a202f8ae572f4bb, type: 3}
